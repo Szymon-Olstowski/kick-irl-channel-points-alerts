@@ -1,5 +1,6 @@
-# Poradnik instalacji i konfiguracji
 
+# Poradnik instalacji i konfiguracji
+ 
 ## 1. Instalacja FFmpeg
 
 ### Pobranie
@@ -106,8 +107,25 @@ IRL.
 
 ## 7. Social Stream Media
 
-Pobierz: `https://github.com/steveseguin/social_stream/releases`\
-Skonfiguruj Kick, wklej link czatu do `server.py`.
+1.	Zainstaluj program z tego linku https://github.com/steveseguin/social_stream/releases najnowszą wersje dla  Windows lub Linux
+2.  Wypakuj i zainstaluj program i uruchom go
+3.  Dodaj nową source do Kicka i prowadź tam swoją nazwę kanału
+4.  Po utworzeniu zaloguj się klikając w przycisk  ‘Sign-in’ (pamiętaj aby po zalogowaniu zamknąć okno)
+5.  Zaznacz opcje Auto Avtive i kllikij w Active Source
+6.  Kliknij w ten guzik aby zobaczyć czat i sprawdź czy możesz wysłać wiadomość z tego panelu
+
+<img width="714" height="109" alt="image" src="https://github.com/user-attachments/assets/de93024b-f6fe-41a4-93fe-8d81e9467caa" />
+
+7.  Gdy udało się wysłać wiadomość to możesz zamakać te okno i skopiować link po prawej stronie pod nazwą „Streaming chat (dock & overlay)” i wkleić do pliku server.py do tego podmieniając w infamie zwartość iframe oznaczone cudzysłowach :
+   
+<img width="945" height="54" alt="image" src="https://github.com/user-attachments/assets/7008a8ce-c55d-4268-b522-eaf44b9faf38" />
+
+8.  Poniżej pod Kick chat musisz wprowadzić swoją nazwę uzytkownika aby widzeć aletry na stronie np:
+   
+   <img width="697" height="88" alt="image" src="https://github.com/user-attachments/assets/e770ebdd-0f05-43c2-8458-03bcc0d95d23" />
+
+
+
 
 ------------------------------------------------------------------------
 
