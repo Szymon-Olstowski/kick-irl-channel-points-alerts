@@ -1,10 +1,29 @@
+# ✅ Wymagania dodatkowe
+Python
+
+Do działania projektu wymagany jest Python w wersji co najmniej 3.11.5.
+Możesz sprawdzić wersję poleceniem:
+
+python --version
+
+
+Jeśli masz starszą wersję — pobierz najnowszą z:
+
+https://www.python.org/downloads/
+
+Uwawga działa tylko na Windows
+
+# ✅ Alerty dźwiękowe za punkty kanału Kick
+
+Jeśli chcesz skonfigurować alerty dźwiękowe za punkty kanału (Kick Channel Points), obejrzyj instrukcję tutaj:
+
+🔗 https://youtu.be/K9P2l3lbDfc?si=GhN8CqskrLjOFDbz
 
 # Poradnik instalacji i konfiguracji
  
 ## 1. Instalacja FFmpeg
 
-### Pobranie
-
+# Windows
 -   Wejdź na stronę: `https://ffmpeg.org/download.html`
 -   Pobierz wersję dla Windows
 
@@ -29,7 +48,7 @@ ffmpeg -version
 
 ## 2. Instalacja ngrok
 
-### Pobranie
+### Pobranie Windows
 
 -   `https://ngrok.com/download`
 
@@ -39,6 +58,8 @@ ffmpeg -version
 ngrok config add-authtoken <twój_authtoken>
 ngrok version
 ```
+
+### Pobranie Linux
 
 ------------------------------------------------------------------------
 
@@ -123,9 +144,6 @@ IRL.
 8.  Poniżej pod Kick chat musisz wprowadzić swoją nazwę uzytkownika aby widzeć aletry na stronie np:
    
    <img width="697" height="88" alt="image" src="https://github.com/user-attachments/assets/e770ebdd-0f05-43c2-8458-03bcc0d95d23" />
-
-
-
 
 ------------------------------------------------------------------------
 
